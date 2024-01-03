@@ -3,7 +3,7 @@ A curated list of blogs, articles, videos, and podcasts on software testing.
 
 ## Background
 I've been in the software quality industry for more than two decades. I read a lot of blogs and try to keep up with happenings. 
-A long time ago, I created a Google Doc to manage this list. In hindsight, it should have been a web page since I [run a blog](http://www.iammike.org), 
+A long time ago, I created a Google Doc to manage this list. In hindsight, it should have been a web page since [I run a blog](http://www.iammike.org), 
 but by the time I decided to do anything about it, I realized an [Awesome repo](https://www.awesome.re) made more sense. 
 Special thanks to [Awesome Testing](https://github.com/TheJambo/awesome-testing) for the inspiration and some "borrowed" boilerplate.
 
