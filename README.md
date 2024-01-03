@@ -201,7 +201,7 @@ All links have been curated by me personally as beneficial to software testing i
 See the *Awesome QA Links* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
 
 ## Code of Conduct
-See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+See the [Code of Conduct](CODE_OF_CONDUCT.md) for details. Basically it comes down to:
 >In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
