@@ -1,4 +1,4 @@
-# Awesome QA Links [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Link Checker](https://github.com/iammike/awesome-qa-links/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/iammike/awesome-qa-links/actions/workflows/markdown-lint.yml)
+# Awesome QA Links [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Link Checker](https://github.com/iammike/awesome-qa-links/actions/workflows/link-checker.yml/badge.svg)](https://github.com/iammike/awesome-qa-links/actions/workflows/link-checker.yml)
 A curated list of blogs, articles, videos, and podcasts on software testing.
 
 ## Background
