@@ -202,11 +202,9 @@ See the *Awesome QA Links* [contribution guide](CONTRIBUTING.md) for details on 
 
 ## Code of Conduct
 See the [Code of Conduct](CODE_OF_CONDUCT.md) for details. Basically it comes down to:
->In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and orientation.
+> We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+>
+> We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 
 ## License
