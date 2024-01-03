@@ -9,7 +9,7 @@ Special thanks to [Awesome Testing](https://github.com/TheJambo/awesome-testing)
 
 All links have been curated by me personally as beneficial to software testing in general or the specific work I do (a focus on iOS automation).
 
-* denotes an article I've written or site I maintain.
+\* denotes an article I've written or site I maintain.
 
 ## Contents
 
