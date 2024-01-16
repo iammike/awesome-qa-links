@@ -120,6 +120,10 @@ All links have been curated by me personally as beneficial to software testing i
 - [Proof Your Thousand Line PRs Result In More Bugs](https://tekin.co.uk/2020/05/proof-your-thousand-line-pull-requests-create-more-bugs)
 - [Refactoring and Design Patterns](https://refactoring.guru) (Site)
 
+### Git
+- [git add -p is Your Friend](https://gist.github.com/mattlewissf/9958704)
+- [How to Clean Up Git Branches](https://devconnected.com/how-to-clean-up-git-branches/)
+
 ### Patterns
 
 - [Page Object Model: Abstract Everything](https://www.iammike.org/2021/02/24/page-object-model-abstract-everything/)*
