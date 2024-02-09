@@ -1,3 +1,4 @@
 ignore: 
   urls:
     - https://www.reddit.com/*
+    - https://web.archive.org/*
