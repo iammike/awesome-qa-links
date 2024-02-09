@@ -1,3 +1,7 @@
 ignore: 
   urls:
     - https://www.reddit.com/*
+    - https://devconnected.com/*
+    - https://beardedtester.substack.com
+delay:
+  'https://web.archive.org/': 5000
