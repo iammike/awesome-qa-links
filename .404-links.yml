@@ -1,6 +1,7 @@
 ignore: 
   urls:
-    - https://www.reddit.com/*
-    - https://web.archive.org/*
+    - https://www.reddit.com/
     - https://devconnected.com/how-to-clean-up-git-branches/
     - https://beardedtester.substack.com
+delay:
+  'https://web.archive.org/': 5000
