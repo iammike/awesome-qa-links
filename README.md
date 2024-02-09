@@ -124,7 +124,7 @@ All links have been curated by me personally as beneficial to software testing i
 
 ### Git
 - [git add -p is Your Friend](https://gist.github.com/mattlewissf/9958704)
-- [How to Clean Up Git Branches](https://devconnected.com/how-to-clean-up-git-branches/)
+- [How to Clean Up Git Branches](https://devconnected.com/how-to-clean-up-git-branches)
 
 ### Patterns
 
