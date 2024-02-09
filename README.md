@@ -47,6 +47,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Kevin Tuck](https://kevintuck.co.uk/blog/) (Site)
 - [Learning By Shipping](http://medium.learningbyshipping.com) (Site)
 - [Lessons Learned By A Software Tester](http://swtester.blogspot.com) (Site)
+- [Maybe Getting Rid of Your QA Team was Bad, Actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b)
 - [Ministry of Testing](https://www.ministryoftesting.com) (Site/Community)
 - [Mobile Testing Checklist](https://drive.google.com/file/d/1yukOg5256jOqTL-1weAi4XzmJWHgB7_W/view)
 - [Overcoming Imposter Syndrome](https://kevintuck.co.uk/overcoming-imposter-syndrome-and-gaining-context-as-a-software-tester/)
@@ -82,9 +83,10 @@ All links have been curated by me personally as beneficial to software testing i
 - [Agile Testing Automation](http://swtester.blogspot.com/2015/04/agile-testing-automation.html?m=1)
 - [Angie Jones](http://angiejones.tech) (Site)
 - [Automate For Yourself](https://www.eviltester.com/blog/eviltester/testautomation/automate-for-yourself-first/)
-- [Automation Step By Step](https://automationstepbystep.com) (Site)
 - [Automated Testing on Devices](https://medium.com/netflix-techblog/automated-testing-on-devices-fc5a39f47e24) (Netflix)
 - [Automation Comic](https://xkcd.com/1319/) (XKCD)
+- [Automation Step By Step](https://automationstepbystep.com) (Site)
+- [Automation Testing Practice Website for UI and API](https://practice.expandtesting.com)
 - [BDD Conference Notes](https://docs.google.com/document/d/1UGWQ7ctiTR0pll7wO9EWatnJBeO-90Ue21lTea5Ou4g/mobilebasic)
 - [Can We Effectively Use Thread.sleep?](https://www.eviltester.com/blog/eviltester/2020/06/09-thread-sleep-usage/)
 - [Do You Really Need That Cucumber With Your Selenium?](https://www.ontestautomation.com/do-you-really-need-that-cucumber-with-your-selenium/)
@@ -144,6 +146,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Espresso](https://developer.android.com/training/testing/espresso) - Android Dev Guide
 - [Espresso Cheat Sheet](https://developer.android.com/training/testing/espresso/cheat-sheet)
 - [How to Reduce Flakiness in Automated UI Testing on Android](https://pspdfkit.com/blog/2020/reduce-flakiness-automated-ui-testing-android/)
+- [Jetpack Compose Testing Cheatsheet](https://developer.android.com/jetpack/compose/testing-cheatsheet)
 - [Test-Driven Development Tutorial](https://www.raywenderlich.com/7109-test-driven-development-tutorial-for-android-getting-started)
 - [Wait for it… Idling Resource and ConditionWatcher](https://medium.com/azimolabs/wait-for-it-idlingresource-and-conditionwatcher-602055f32356)
 - [Writing and Using Hamcrest Matchers](https://www.slideshare.net/shaiyallin/hamcrest-matchers)
@@ -151,9 +154,11 @@ All links have been curated by me personally as beneficial to software testing i
 ### iOS
 
 - [Bundle IDs for Native iOS Apps](https://support.apple.com/guide/deployment/bundle-ids-for-native-ios-and-ipados-apps-depece748c41/web)
+- [Catbird HTTP Mocking Framework](https://github.com/RedMadRobot/catbird)
 - [Clean Waiting in XCUITest](https://sourcediving.com/clean-waiting-in-xcuitest-43bab495230f)
 - [Deflaking CI Tests with xcresults](https://pspdfkit.com/blog/2021/deflaking-ci-tests-with-xcresults/)
 - [Deleting Your App During UI Tests](https://www.jessesquires.com/blog/2021/10/25/delete-app-during-ui-tests/)
+- [Getting Started with Mocking Networking in UI Tests](https://augmentedcode.io/2022/07/11/getting-started-with-mocking-networking-in-ui-tests-on-ios/)
 - [Handle Interruptions and Alerts in UI Tests - WWDC 2020](https://developer.apple.com/videos/play/wwdc2020/10220/) (Video)
 - [How to Test Push Notifications with UI Tests](https://medium.com/azimolabs/https-medium-com-pawel-zemsta-how-to-test-push-notifications-in-ui-tests-8ac76007c095)
 - [How to Train Your XCTest](https://blog.scottlogic.com/2019/04/30/how-to-train-your-xctest.html)
@@ -167,6 +172,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Parallel Tests with XCUITest](https://alexilyenko.github.io/ios-parallel-tests/)
 - [r/XCUITest](https://www.reddit.com/r/xcuitest/)*
 - [Safari and XCUITest](https://www.iammike.org/2021/03/25/safari-and-xcuitest/)*
+- [Shock HTTP Mocking Framework](https://github.com/justeat/Shock)
 - [TDD iOS Network API Call w/ XCTest](https://medium.com/swift2go/tdd-ios-network-api-call-with-xcode-xctest-34f778e36344)
 - [Testing in Xcode - WWDC 2019](https://developer.apple.com/videos/play/wwdc2019/413/) (Video)
 - [Timer Patterns in XCUITest](https://www.iammike.org/2022/03/21/timer-patterns-in-xctest-and-xcuitest/)*
