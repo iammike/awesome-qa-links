@@ -212,7 +212,7 @@ All links have been curated by me personally as beneficial to software testing i
 
 ## Other
 
-- [jq: A Practical Guide (video)](https://youtu.be/j7xZ2VkLYIY?si=efTOAsIgvBTeVlwx)
+- [jq: A Practical Guide](https://youtu.be/j7xZ2VkLYIY?si=efTOAsIgvBTeVlwx) (Video)
 
 ## Contributing
 See the *Awesome QA Links* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
