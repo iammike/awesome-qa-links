@@ -17,6 +17,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Automation](#Automation)
 - [Coding](#Coding)
 - [Mobile](#Mobile)
+- [Other](#Other)
 - [Web](#Web)
 
 ## General
@@ -208,6 +209,10 @@ All links have been curated by me personally as beneficial to software testing i
 
 - [Cypress: PageObjects vs AppActions](https://www.diogonunes.com/blog/cypress-pageobjects-vs-appactions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mottestingfeeds+%28MoT+Testing+Feeds+»+Blogs%29)
 - [Visual Regression Testing with Cypress.io and cypress-image-snapshot](https://medium.com/norwich-node-user-group/visual-regression-testing-with-cypress-io-and-cypress-image-snapshot-99c520ccc595)
+
+## Other
+
+- [jq: A Practical Guide (video)](https://youtu.be/j7xZ2VkLYIY?si=efTOAsIgvBTeVlwx)
 
 ## Contributing
 See the *Awesome QA Links* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
