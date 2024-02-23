@@ -54,6 +54,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Overcoming Imposter Syndrome](https://kevintuck.co.uk/overcoming-imposter-syndrome-and-gaining-context-as-a-software-tester/)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Prisoner’s Dilemma in Testing](https://salmonmode.github.io/2020/12/16/prisoners-dilemma-in-testing.html)
+- [The Quality Assistance Model](https://www.linkedin.com/pulse/better-software-faster-testers-report-quality-assistance-knnze/)
 - [Quality Narratives Are a Better Form of Quality Reporting](https://callumakehurstryansblog.wordpress.com/2022/03/24/quality-narratives-are-a-better-form-of-reporting/)
 - [Responsible Automation](https://responsibleautomation.wordpress.com)
 - [StickyMinds](https://www.stickyminds.com) (Site)
