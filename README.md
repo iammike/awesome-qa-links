@@ -27,6 +27,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [A Career Retrospective](https://visible-quality.blogspot.com/2019/11/a-career-retrospective.html)
 - [A Mobile App Test Strategy](https://youtu.be/Cr8-Z3HyJpk) (Video)
 - [A Seasoned Tester’s Crystal Ball](https://visible-quality.blogspot.com) (Site)
+- [A Tester's Report On The Quality Assitance Model](https://www.linkedin.com/pulse/better-software-faster-testers-report-quality-assistance-knnze/)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing#readme) (Site/Repo)
 - [The Bearded Tester](https://beardedtester.substack.com) (Site)
 - [Bug Bash](https://en.wikipedia.org/wiki/Bug_bash) (Definition)
