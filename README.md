@@ -17,6 +17,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Automation](#Automation)
 - [Coding](#Coding)
 - [Mobile](#Mobile)
+- [Other](#Other)
 - [Web](#Web)
 
 ## General
@@ -26,6 +27,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [A Career Retrospective](https://visible-quality.blogspot.com/2019/11/a-career-retrospective.html)
 - [A Mobile App Test Strategy](https://youtu.be/Cr8-Z3HyJpk) (Video)
 - [A Seasoned Tester’s Crystal Ball](https://visible-quality.blogspot.com) (Site)
+- [A Tester's Report On The Quality Assitance Model](https://www.linkedin.com/pulse/better-software-faster-testers-report-quality-assistance-knnze/)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing#readme) (Site/Repo)
 - [The Bearded Tester](https://beardedtester.substack.com) (Site)
 - [Bug Bash](https://en.wikipedia.org/wiki/Bug_bash) (Definition)
@@ -208,6 +210,10 @@ All links have been curated by me personally as beneficial to software testing i
 
 - [Cypress: PageObjects vs AppActions](https://www.diogonunes.com/blog/cypress-pageobjects-vs-appactions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mottestingfeeds+%28MoT+Testing+Feeds+»+Blogs%29)
 - [Visual Regression Testing with Cypress.io and cypress-image-snapshot](https://medium.com/norwich-node-user-group/visual-regression-testing-with-cypress-io-and-cypress-image-snapshot-99c520ccc595)
+
+## Other
+
+- [jq: A Practical Guide](https://youtu.be/j7xZ2VkLYIY?si=efTOAsIgvBTeVlwx) (Video)
 
 ## Contributing
 See the *Awesome QA Links* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
