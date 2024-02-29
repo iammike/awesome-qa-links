@@ -4,4 +4,4 @@ ignore:
     - https://devconnected.com/*
     - https://beardedtester.substack.com
 delay:
-  'https://web.archive.org/': 5000
+  'https://web.archive.org/': 20000
