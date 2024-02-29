@@ -7,3 +7,4 @@ ignore:
     - https://softwareengineering.stackexchange.com/*
 delay:
   'https://web.archive.org/': 20000
+  
