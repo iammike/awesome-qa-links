@@ -91,6 +91,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Automation Testing Practice Website for UI and API](https://practice.expandtesting.com)
 - [BDD Conference Notes](https://docs.google.com/document/d/1UGWQ7ctiTR0pll7wO9EWatnJBeO-90Ue21lTea5Ou4g/mobilebasic)
 - [Can We Effectively Use Thread.sleep?](https://www.eviltester.com/blog/eviltester/2020/06/09-thread-sleep-usage/)
+- [Developers Who Test](https://www.developerswhotest.com) (Podcast)
 - [Do You Really Need That Cucumber With Your Selenium?](https://www.ontestautomation.com/do-you-really-need-that-cucumber-with-your-selenium/)
 - [Don’t Let Flaky Test Ruin Your Automation](https://dev-tester.com/dont-let-flaky-tests-ruin-your-automation/)
 - [Don’t Eat Stale Automation](https://responsibleautomation.wordpress.com/2017/04/11/dont-eat-stale-automation/)
