@@ -98,6 +98,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Flaky Testing](https://www.developsense.com/blog/2021/02/flaky-testing/)
 - [How to Decide Which Tests to Automate](https://kevintuck.co.uk/how-to-decide-which-tests-to-automate/)
 - [How Slow is Too Slow to Run Your Tests?](https://dev-tester.com/how-slow-is-too-slow-to-run-your-tests/)
+- [Keeping Automation Up With The Joneses](https://responsibleautomation.wordpress.com/2024/03/06/keeping-automation-up-with-the-joneses/)
 - [One Tool To Rule Them All?](https://web.archive.org/web/20150712112540/http://www.stephenblower.co.uk/blog/26/03/2013/test-automation-one-tool-to-rule-them-all/)
 - [Parallelization test automation? Read this first.](https://techbeacon.com/app-dev-testing/parallelizing-test-automation-read-first)
 - [Problems with Test Automation and Modern QA](https://devqa.io/problems-test-automation-modern-qa/)
