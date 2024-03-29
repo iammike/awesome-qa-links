@@ -215,7 +215,7 @@ All links have been curated by me personally as beneficial to software testing i
 
 ### Cypress
 
-- [Cypress: PageObjects vs AppActions](https://www.diogonunes.com/blog/cypress-pageobjects-vs-appactions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mottestingfeeds+%28MoT+Testing+Feeds+»+Blogs%29)
+- [Cypress: PageObjects vs AppActions](https://www.diogonunes.com/blog/cypress-pageobjects-vs-appactions/)
 - [Visual Regression Testing with Cypress.io and cypress-image-snapshot](https://medium.com/norwich-node-user-group/visual-regression-testing-with-cypress-io-and-cypress-image-snapshot-99c520ccc595)
 
 ### Playwright
