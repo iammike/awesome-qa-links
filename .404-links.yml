@@ -5,6 +5,7 @@ ignore:
     - https://beardedtester.substack.com
     - https://www.stickyminds.com
     - https://softwareengineering.stackexchange.com/*
+    - https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming # remove April 2024
 delay:
   'https://web.archive.org/': 20000
   
