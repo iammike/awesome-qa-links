@@ -63,6 +63,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Test Heuristics Cheat Sheet](https://www.ministryoftesting.com/articles/test-heuristics-cheat-sheet)
 - [Testers and the Quote Culture](http://testerstories.com/2019/06/testers-and-the-quote-culture)
 - [Testers Don’t Break Software](https://www.developsense.com/blog/2015/02/very-short-blog-posts-25-testers-dont-break-the-software/)
+- [Testers, Now More Than Ever](https://developsense.com/blog/2024/03/testing-now-more-than-ever)
 - [TestGuild Automation](https://podcasts.apple.com/us/podcast/testguild-automation-podcast/id826722706) (Podcast)
 - [Testing Advice To Your Younger Self](https://qatoddy.medium.com/testing-advice-to-your-younger-self-an-open-question-to-reddit-4de786a991b5)
 - [Testing Deep and Shallow 1: Coverage](https://www.developsense.com/blog/2022/01/testing-deep-and-shallow/)
@@ -72,6 +73,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [That’s a Bug](http://thatsabug.com) (Site)
 - [Tooth of the Weasel](https://angryweasel.com/blog/) (Site) - Alan Page
 - [Undeveloped Bruce](https://undevelopedbruce.com) (Site)
+- [Unveiling the Mythical Creatures of Software QA Job Descriptions](https://medium.com/@karlamieses.km/unveiling-the-mythical-creatures-of-software-qa-job-descriptions-navigating-unrealistic-0efb807ecab8)
 - [Visual Risk Planning](https://bughuntersam.com/visual-risk-ui-automation-framework/)
 - [What 3 Testing Books Would You Recommend?](https://club.ministryoftesting.com/t/what-3-testing-books-would-you-recommend-to-a-tester/25040)
 - [What To Do When You Have Nothing To Test](https://dev-tester.com/what-do-you-do-when-you-have-nothing-to-test/)
@@ -90,13 +92,16 @@ All links have been curated by me personally as beneficial to software testing i
 - [Automation Step By Step](https://automationstepbystep.com) (Site)
 - [Automation Testing Practice Website for UI and API](https://practice.expandtesting.com)
 - [BDD Conference Notes](https://docs.google.com/document/d/1UGWQ7ctiTR0pll7wO9EWatnJBeO-90Ue21lTea5Ou4g/mobilebasic)
+- [The Build That Cried Broken](https://www.youtube.com/watch?v=VotJqV4n8ig) (Video, 40min)
 - [Can We Effectively Use Thread.sleep?](https://www.eviltester.com/blog/eviltester/2020/06/09-thread-sleep-usage/)
+- [Developers Who Test](https://www.developerswhotest.com) (Podcast)
 - [Do You Really Need That Cucumber With Your Selenium?](https://www.ontestautomation.com/do-you-really-need-that-cucumber-with-your-selenium/)
 - [Don’t Let Flaky Test Ruin Your Automation](https://dev-tester.com/dont-let-flaky-tests-ruin-your-automation/)
 - [Don’t Eat Stale Automation](https://responsibleautomation.wordpress.com/2017/04/11/dont-eat-stale-automation/)
 - [Flaky Testing](https://www.developsense.com/blog/2021/02/flaky-testing/)
 - [How to Decide Which Tests to Automate](https://kevintuck.co.uk/how-to-decide-which-tests-to-automate/)
 - [How Slow is Too Slow to Run Your Tests?](https://dev-tester.com/how-slow-is-too-slow-to-run-your-tests/)
+- [The Myth of "Unstable" Code](https://gerg.dev/2024/02/the-myth-of-unstable-code/)
 - [One Tool To Rule Them All?](https://web.archive.org/web/20150712112540/http://www.stephenblower.co.uk/blog/26/03/2013/test-automation-one-tool-to-rule-them-all/)
 - [Parallelization test automation? Read this first.](https://techbeacon.com/app-dev-testing/parallelizing-test-automation-read-first)
 - [Problems with Test Automation and Modern QA](https://devqa.io/problems-test-automation-modern-qa/)
@@ -108,7 +113,6 @@ All links have been curated by me personally as beneficial to software testing i
 - [Test Automation Patterns Wiki](https://testautomationpatterns.org/wiki/index.php/Main_Page) (Site)
 - [Test Automation University](https://testautomationu.applitools.com) (Site/Community)
 - [Testing Flakiness (Part 2)](https://testing.googleblog.com/2021/03/test-flakiness-one-of-main-challenges.html)
-- [The Build That Cried Broken](https://www.youtube.com/watch?v=VotJqV4n8ig) (Video, 40min)
 - [Three Ways to Achieve In-Sprint Automation](https://angiejones.tech/in-sprint-test-automation/)
 - [Two Easy Questions To Help You Automate The Right Tests](https://dev-tester.com/two-easy-questions-to-help-you-automate-the-right-tests/)
 - [Unscripted Automation](http://staqs.com/pubs/Unscripted_Automation_PC2009.pdf)
@@ -119,7 +123,9 @@ All links have been curated by me personally as beneficial to software testing i
 ## Coding
 
 - [Best Practices When Doing Code Reviews - Part 1](https://pspdfkit.com/blog/2022/best-practices-when-doing-code-reviews/)
+- [How Principled Coders Outperform the Competition](https://www.youtube.com/watch?v=q1qKv5TBaOA) (Video)
 - [How to Make Your Code Reviewer Fall in Love With You](https://mtlynch.io/code-review-love/#1-review-your-own-code-first)
+- [Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU) (Video, 7 minutes)
 - [On the Importance of Naming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
 - [Proof Your Thousand Line PRs Result In More Bugs](https://tekin.co.uk/2020/05/proof-your-thousand-line-pull-requests-create-more-bugs)
 - [Refactoring and Design Patterns](https://refactoring.guru) (Site)
@@ -205,11 +211,16 @@ All links have been curated by me personally as beneficial to software testing i
 ## Web
 
 - [My Favorite Chrome Dev Tools Tips and Tricks](https://www.freecodecamp.org/news/awesome-chrome-dev-tools-tips-and-tricks/)
+- [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
 ### Cypress
 
 - [Cypress: PageObjects vs AppActions](https://www.diogonunes.com/blog/cypress-pageobjects-vs-appactions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mottestingfeeds+%28MoT+Testing+Feeds+»+Blogs%29)
 - [Visual Regression Testing with Cypress.io and cypress-image-snapshot](https://medium.com/norwich-node-user-group/visual-regression-testing-with-cypress-io-and-cypress-image-snapshot-99c520ccc595)
+
+### Playwright
+
+- [Playwright's Auto Wait is Simple and Superb](https://ceroshjacob.medium.com/playwrights-auto-wait-is-simple-and-superb-7b537bc00657)
 
 ## Other
 
