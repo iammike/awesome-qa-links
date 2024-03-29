@@ -211,6 +211,7 @@ All links have been curated by me personally as beneficial to software testing i
 ## Web
 
 - [My Favorite Chrome Dev Tools Tips and Tricks](https://www.freecodecamp.org/news/awesome-chrome-dev-tools-tips-and-tricks/)
+- [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
 ### Cypress
 
