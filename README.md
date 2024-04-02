@@ -179,6 +179,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Painless UI Testing in iOS (Part 1) - Mocking the Network](https://jhandguy.github.io/posts/mocking-the-network-ios/)
 - [Parallel Tests with XCUITest](https://alexilyenko.github.io/ios-parallel-tests/)
 - [r/XCUITest](https://www.reddit.com/r/xcuitest/)*
+- [Reddit's UI Testing Strategy and Tooling](https://www.reddit.com/r/RedditEng/comments/14gd9gc/ios_ui_testing_strategy_and_tooling/)
 - [Safari and XCUITest](https://www.iammike.org/2021/03/25/safari-and-xcuitest/)*
 - [Shock HTTP Mocking Framework](https://github.com/justeat/Shock)
 - [TDD iOS Network API Call w/ XCTest](https://medium.com/swift2go/tdd-ios-network-api-call-with-xcode-xctest-34f778e36344)
