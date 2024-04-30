@@ -99,6 +99,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Don’t Let Flaky Test Ruin Your Automation](https://dev-tester.com/dont-let-flaky-tests-ruin-your-automation/)
 - [Don’t Eat Stale Automation](https://responsibleautomation.wordpress.com/2017/04/11/dont-eat-stale-automation/)
 - [Flaky Testing](https://www.developsense.com/blog/2021/02/flaky-testing/)
+- [From Fragile to Agile: Automating the fight against flaky tests](https://www.reddit.com/r/RedditEng/comments/1ap4axo/from_fragile_to_agile_automating_the_fight/)
 - [How to Decide Which Tests to Automate](https://kevintuck.co.uk/how-to-decide-which-tests-to-automate/)
 - [How Slow is Too Slow to Run Your Tests?](https://dev-tester.com/how-slow-is-too-slow-to-run-your-tests/)
 - [The Myth of "Unstable" Code](https://gerg.dev/2024/02/the-myth-of-unstable-code/)
@@ -179,6 +180,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Painless UI Testing in iOS (Part 1) - Mocking the Network](https://jhandguy.github.io/posts/mocking-the-network-ios/)
 - [Parallel Tests with XCUITest](https://alexilyenko.github.io/ios-parallel-tests/)
 - [r/XCUITest](https://www.reddit.com/r/xcuitest/)*
+- [Reddit's UI Testing Strategy and Tooling](https://www.reddit.com/r/RedditEng/comments/14gd9gc/ios_ui_testing_strategy_and_tooling/)
 - [Safari and XCUITest](https://www.iammike.org/2021/03/25/safari-and-xcuitest/)*
 - [Shock HTTP Mocking Framework](https://github.com/justeat/Shock)
 - [TDD iOS Network API Call w/ XCTest](https://medium.com/swift2go/tdd-ios-network-api-call-with-xcode-xctest-34f778e36344)
@@ -215,7 +217,7 @@ All links have been curated by me personally as beneficial to software testing i
 
 ### Cypress
 
-- [Cypress: PageObjects vs AppActions](https://www.diogonunes.com/blog/cypress-pageobjects-vs-appactions/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mottestingfeeds+%28MoT+Testing+Feeds+»+Blogs%29)
+- [Cypress: PageObjects vs AppActions](https://www.diogonunes.com/blog/cypress-pageobjects-vs-appactions/)
 - [Visual Regression Testing with Cypress.io and cypress-image-snapshot](https://medium.com/norwich-node-user-group/visual-regression-testing-with-cypress-io-and-cypress-image-snapshot-99c520ccc595)
 
 ### Playwright
