@@ -123,6 +123,7 @@ All links have been curated by me personally as beneficial to software testing i
 
 ## Coding
 
+- [Avoid the Long Parameter List](https://testing.googleblog.com/2024/05/avoid-long-parameter-list.html)
 - [Best Practices When Doing Code Reviews - Part 1](https://pspdfkit.com/blog/2022/best-practices-when-doing-code-reviews/)
 - [How Principled Coders Outperform the Competition](https://www.youtube.com/watch?v=q1qKv5TBaOA) (Video)
 - [How to Make Your Code Reviewer Fall in Love With You](https://mtlynch.io/code-review-love/#1-review-your-own-code-first)
