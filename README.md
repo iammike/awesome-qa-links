@@ -123,6 +123,7 @@ All links have been curated by me personally as beneficial to software testing i
 
 ## Coding
 
+- [Avoid the Long Parameter List](https://testing.googleblog.com/2024/05/avoid-long-parameter-list.html)
 - [Best Practices When Doing Code Reviews - Part 1](https://pspdfkit.com/blog/2022/best-practices-when-doing-code-reviews/)
 - [How Principled Coders Outperform the Competition](https://www.youtube.com/watch?v=q1qKv5TBaOA) (Video)
 - [How to Make Your Code Reviewer Fall in Love With You](https://mtlynch.io/code-review-love/#1-review-your-own-code-first)
@@ -155,6 +156,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Espresso](https://developer.android.com/training/testing/espresso) - Android Dev Guide
 - [Espresso Cheat Sheet](https://developer.android.com/training/testing/espresso/cheat-sheet)
 - [How to Reduce Flakiness in Automated UI Testing on Android](https://pspdfkit.com/blog/2020/reduce-flakiness-automated-ui-testing-android/)
+- [How to Test Jetpack Compose](https://www.droidcon.com/2021/11/12/how-to-test-jetpack-compose/)
 - [Jetpack Compose Testing Cheatsheet](https://developer.android.com/jetpack/compose/testing-cheatsheet)
 - [Test-Driven Development Tutorial](https://www.raywenderlich.com/7109-test-driven-development-tutorial-for-android-getting-started)
 - [Wait for it… Idling Resource and ConditionWatcher](https://medium.com/azimolabs/wait-for-it-idlingresource-and-conditionwatcher-602055f32356)
