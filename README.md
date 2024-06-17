@@ -118,6 +118,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Setting the Foundation for Test Automation Success](https://kevintuck.co.uk/setting-the-foundation-for-test-automation-success/)
 - [Test Automation Patterns Wiki](https://testautomationpatterns.org/wiki/index.php/Main_Page) (Site)
 - [Test Automation University](https://testautomationu.applitools.com) (Site/Community)
+- [Test Double](https://martinfowler.com/bliki/TestDouble.html)
 - [Testing Flakiness (Part 2)](https://testing.googleblog.com/2021/03/test-flakiness-one-of-main-challenges.html)
 - [Three Ways to Achieve In-Sprint Automation](https://angiejones.tech/in-sprint-test-automation/)
 - [Two Easy Questions To Help You Automate The Right Tests](https://dev-tester.com/two-easy-questions-to-help-you-automate-the-right-tests/)
