@@ -1,7 +1,7 @@
 ignore: 
   urls:
-    - https://www.reddit.com/
-    - https://devconnected.com/
+    - https://www.reddit.com/*
+    - https://devconnected.com/*
     - https://beardedtester.substack.com
     - https://www.stickyminds.com
     - http://testerstories.com
