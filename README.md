@@ -109,7 +109,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [How Slow is Too Slow to Run Your Tests?](https://dev-tester.com/how-slow-is-too-slow-to-run-your-tests/)
 - [The Myth of "Unstable" Code](https://gerg.dev/2024/02/the-myth-of-unstable-code/)
 - [One Tool To Rule Them All?](https://web.archive.org/web/20150712112540/http://www.stephenblower.co.uk/blog/26/03/2013/test-automation-one-tool-to-rule-them-all/)
-- [Parallelization test automation? Read this first.](https://techbeacon.com/app-dev-testing/parallelizing-test-automation-read-first)
+- [Parallelization test automation? Read this first.](https://responsibleautomation.wordpress.com/2021/07/08/parallelizing-test-automation-read-this-first/)
 - [Problems with Test Automation and Modern QA](https://devqa.io/problems-test-automation-modern-qa/)
 - [Prune Your Automation!](https://web.archive.org/web/20200126223527/https://archdevops.com/2018/07/31/prune-your-automation-2/)
 - [Redefining Test Automation](https://youtu.be/uIDvGzQdoxc) (Video)
@@ -132,16 +132,19 @@ All links have been curated by me personally as beneficial to software testing i
 - [Avoid the Long Parameter List](https://testing.googleblog.com/2024/05/avoid-long-parameter-list.html)
 - [Best Practices When Doing Code Reviews - Part 1](https://pspdfkit.com/blog/2022/best-practices-when-doing-code-reviews/)
 - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
+- [Essays on Programming](https://www.benkuhn.net/progessays)
 - [How Principled Coders Outperform the Competition](https://www.youtube.com/watch?v=q1qKv5TBaOA) (Video)
 - [How to Make Your Code Reviewer Fall in Love With You](https://mtlynch.io/code-review-love/#1-review-your-own-code-first)
 - [Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU) (Video, 7 minutes)
 - [On the Importance of Naming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
+- [Premature Optimization](https://www.youtube.com/watch?v=tKbV6BpH-C8) (Video)
 - [Proof Your Thousand Line PRs Result In More Bugs](https://tekin.co.uk/2020/05/proof-your-thousand-line-pull-requests-create-more-bugs)
 - [Refactoring and Design Patterns](https://refactoring.guru) (Site)
 
 ### Git
 - [git add -p is Your Friend](https://gist.github.com/mattlewissf/9958704)
 - [How to Clean Up Git Branches](https://devconnected.com/how-to-clean-up-git-branches)
+- [In Praise of Small Pull Requests](https://testing.googleblog.com/2024/07/in-praise-of-small-pull-requests.html)
 
 ### Patterns
 
