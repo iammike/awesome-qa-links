@@ -109,7 +109,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [How Slow is Too Slow to Run Your Tests?](https://dev-tester.com/how-slow-is-too-slow-to-run-your-tests/)
 - [The Myth of "Unstable" Code](https://gerg.dev/2024/02/the-myth-of-unstable-code/)
 - [One Tool To Rule Them All?](https://web.archive.org/web/20150712112540/http://www.stephenblower.co.uk/blog/26/03/2013/test-automation-one-tool-to-rule-them-all/)
-- [Parallelization test automation? Read this first.](https://techbeacon.com/app-dev-testing/parallelizing-test-automation-read-first)
+- [Parallelization test automation? Read this first.](https://responsibleautomation.wordpress.com/2021/07/08/parallelizing-test-automation-read-this-first/)
 - [Problems with Test Automation and Modern QA](https://devqa.io/problems-test-automation-modern-qa/)
 - [Prune Your Automation!](https://web.archive.org/web/20200126223527/https://archdevops.com/2018/07/31/prune-your-automation-2/)
 - [Redefining Test Automation](https://youtu.be/uIDvGzQdoxc) (Video)
