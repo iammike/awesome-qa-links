@@ -137,12 +137,14 @@ All links have been curated by me personally as beneficial to software testing i
 - [How to Make Your Code Reviewer Fall in Love With You](https://mtlynch.io/code-review-love/#1-review-your-own-code-first)
 - [Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU) (Video, 7 minutes)
 - [On the Importance of Naming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
+- [Premature Optimization](https://www.youtube.com/watch?v=tKbV6BpH-C8) (Video)
 - [Proof Your Thousand Line PRs Result In More Bugs](https://tekin.co.uk/2020/05/proof-your-thousand-line-pull-requests-create-more-bugs)
 - [Refactoring and Design Patterns](https://refactoring.guru) (Site)
 
 ### Git
 - [git add -p is Your Friend](https://gist.github.com/mattlewissf/9958704)
 - [How to Clean Up Git Branches](https://devconnected.com/how-to-clean-up-git-branches)
+- [In Praise of Small Pull Requests](https://testing.googleblog.com/2024/07/in-praise-of-small-pull-requests.html)
 
 ### Patterns
 
