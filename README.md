@@ -140,6 +140,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Premature Optimization](https://www.youtube.com/watch?v=tKbV6BpH-C8) (Video)
 - [Proof Your Thousand Line PRs Result In More Bugs](https://tekin.co.uk/2020/05/proof-your-thousand-line-pull-requests-create-more-bugs)
 - [Refactoring and Design Patterns](https://refactoring.guru) (Site)
+- [Write Change-Resilient Code with Domain Objects](https://testing.googleblog.com/2024/09/write-change-resilient-code-with-domain.html)
 
 ### Git
 - [git add -p is Your Friend](https://gist.github.com/mattlewissf/9958704)
