@@ -75,6 +75,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Testing Deep and Shallow 2: “Shallow” is a feature, not an insult!](https://www.developsense.com/blog/2022/01/testing-deep-and-shallow-2-shallow-is-not-an-insult/)
 - [Testing Is…](https://www.developsense.com/blog/2014/10/testing-is/)
 - [Testing Peers](https://podcasts.apple.com/us/podcast/testing-peers/id1512731235) (Podcast)
+- [Testing Unknown Unknowns, The](https://qualityeng.substack.com/p/the-testing-unknown-unknowns)
 - [That’s a Bug](http://thatsabug.com) (Site)
 - [Tooth of the Weasel](https://angryweasel.com/blog/) (Site) - Alan Page
 - [Undeveloped Bruce](https://undevelopedbruce.com) (Site)
