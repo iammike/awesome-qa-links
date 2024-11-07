@@ -53,6 +53,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Kevin Tuck](https://kevintuck.co.uk/blog/) (Site)
 - [Learning By Shipping](http://medium.learningbyshipping.com) (Site)
 - [Lessons Learned By A Software Tester](http://swtester.blogspot.com) (Site)
+- [Lessons Learned From 20 Years of Software Testing](https://www.linkedin.com/pulse/lessons-learned-from-20-years-software-testing-ministry-of-testing-9qxee/)
 - [Maybe Getting Rid of Your QA Team was Bad, Actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b)
 - [Ministry of Testing](https://www.ministryoftesting.com) (Site/Community)
 - [Mobile Testing Checklist](https://drive.google.com/file/d/1yukOg5256jOqTL-1weAi4XzmJWHgB7_W/view)
