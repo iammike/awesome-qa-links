@@ -6,4 +6,5 @@ ignore:
     - https://www.stickyminds.com
     - http://testerstories.com/*
     - https://web.archive.org/*
+    - https://*.substack.com/
   
