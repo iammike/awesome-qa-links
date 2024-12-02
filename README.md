@@ -59,6 +59,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Mobile Testing Checklist](https://drive.google.com/file/d/1yukOg5256jOqTL-1weAi4XzmJWHgB7_W/view)
 - [Overcoming Imposter Syndrome](https://kevintuck.co.uk/overcoming-imposter-syndrome-and-gaining-context-as-a-software-tester/)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com) (Site)
 - [Prisoner’s Dilemma in Testing](https://salmonmode.github.io/2020/12/16/prisoners-dilemma-in-testing.html)
 - [Quality Narratives Are a Better Form of Quality Reporting](https://callumakehurstryansblog.wordpress.com/2022/03/24/quality-narratives-are-a-better-form-of-reporting/)
 - [Responsible Automation](https://responsibleautomation.wordpress.com)
@@ -193,6 +194,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Making Xcode UI Tests Faster and More Stable](https://blog.bitrise.io/post/making-xcode-ui-tests-faster-and-more-stable)
 - [Page Object in XCTest UI Tests](https://alexilyenko.github.io/xcuitest-page-object/)
 - [Painless UI Testing in iOS (Part 1) - Mocking the Network](https://jhandguy.github.io/posts/mocking-the-network-ios/)
+- [Painless UI Testing in iOS (Part 3) - Disabling Animations](https://jhandguy.github.io/posts/coordinator-design-pattern-ios/)
 - [Parallel Tests with XCUITest](https://alexilyenko.github.io/ios-parallel-tests/)
 - [r/XCUITest](https://www.reddit.com/r/xcuitest/)*
 - [Reddit's UI Testing Strategy and Tooling](https://www.reddit.com/r/RedditEng/comments/14gd9gc/ios_ui_testing_strategy_and_tooling/)
