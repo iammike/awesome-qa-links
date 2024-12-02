@@ -82,7 +82,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Tooth of the Weasel](https://angryweasel.com/blog/) (Site) - Alan Page
 - [Undeveloped Bruce](https://undevelopedbruce.com) (Site)
 - [Unveiling the Mythical Creatures of Software QA Job Descriptions](https://medium.com/@karlamieses.km/unveiling-the-mythical-creatures-of-software-qa-job-descriptions-navigating-unrealistic-0efb807ecab8)
-- [Visual Risk Planning](https://bughuntersam.com/visual-risk-ui-automation-framework/)
+- [Visual Risk Planning](http://web.archive.org/web/20240423115713/https://bughuntersam.com/visual-risk-ui-automation-framework/)
 - [What 3 Testing Books Would You Recommend?](https://club.ministryoftesting.com/t/what-3-testing-books-would-you-recommend-to-a-tester/25040)
 - [What To Do When You Have Nothing To Test](https://dev-tester.com/what-do-you-do-when-you-have-nothing-to-test/)
 - [Why Bother Writing Tests?](https://dave.cheney.net/2019/05/14/why-bother-writing-tests-at-all)
