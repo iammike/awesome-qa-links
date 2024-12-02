@@ -4,7 +4,7 @@ ignore:
     - https://devconnected.com/*
     - https://beardedtester.substack.com
     - https://www.stickyminds.com
-    - http://testerstories.com
-delay:
-  'https://web.archive.org/': 20000
+    - http://testerstories.com/*
+    - https://web.archive.org/*
+    - https://*.substack.com/
   
