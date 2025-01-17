@@ -111,6 +111,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [How to Decide Which Tests to Automate](https://kevintuck.co.uk/how-to-decide-which-tests-to-automate/)
 - [How Slow is Too Slow to Run Your Tests?](https://dev-tester.com/how-slow-is-too-slow-to-run-your-tests/)
 - [The Myth of "Unstable" Code](https://gerg.dev/2024/02/the-myth-of-unstable-code/)
+- [Oh No! I Can’t Get My Test Automation Scripts To Pass!](https://responsibleautomation.wordpress.com/2022/12/20/oh-no-i-cant-get-my-test-automation-scripts-to-pass/)
 - [One Tool To Rule Them All?](https://web.archive.org/web/20150712112540/http://www.stephenblower.co.uk/blog/26/03/2013/test-automation-one-tool-to-rule-them-all/)
 - [Parallelization test automation? Read this first.](https://responsibleautomation.wordpress.com/2021/07/08/parallelizing-test-automation-read-this-first/)
 - [Problems with Test Automation and Modern QA](https://devqa.io/problems-test-automation-modern-qa/)
