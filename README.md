@@ -64,6 +64,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Quality Assurance and Testing](https://developsense.com/blog/2024/01/quality-assurance-and-testing)
 - [Quality Narratives Are a Better Form of Quality Reporting](https://callumakehurstryansblog.wordpress.com/2022/03/24/quality-narratives-are-a-better-form-of-reporting/)
 - [Responsible Automation](https://responsibleautomation.wordpress.com)
+- [Software Testing Heuristics & Mnemonics](http://karennicolejohnson.com/wp-content/uploads/2012/11/KNJohnson-2012-heuristics-mnemonics.pdf)
 - [StickyMinds](https://www.stickyminds.com) (Site)
 - [Story Points v. Time](https://softwareengineering.stackexchange.com/questions/182057/why-do-we-use-story-points-instead-of-man-days-when-estimating-user-stories)
 - [Test Case Points](https://responsibleautomation.wordpress.com/2023/09/20/need-a-testing-metric-put-points-on-your-test-cases/)
