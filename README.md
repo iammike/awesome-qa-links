@@ -79,6 +79,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Testing Deep and Shallow 1: Coverage](https://www.developsense.com/blog/2022/01/testing-deep-and-shallow/)
 - [Testing Deep and Shallow 2: “Shallow” is a feature, not an insult!](https://www.developsense.com/blog/2022/01/testing-deep-and-shallow-2-shallow-is-not-an-insult/)
 - [Testing Is…](https://www.developsense.com/blog/2014/10/testing-is/)
+- [Testing Mnemonics Card Desk](http://karennicolejohnson.com/2012/07/testing-mnemonics-as-a-card-deck/)
 - [Testing Peers](https://podcasts.apple.com/us/podcast/testing-peers/id1512731235) (Podcast)
 - [Testing Unknown Unknowns, The](https://qualityeng.substack.com/p/the-testing-unknown-unknowns)
 - [That’s a Bug](http://thatsabug.com) (Site)
