@@ -69,6 +69,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Story Points v. Time](https://softwareengineering.stackexchange.com/questions/182057/why-do-we-use-story-points-instead-of-man-days-when-estimating-user-stories)
 - [Test Case Points](https://responsibleautomation.wordpress.com/2023/09/20/need-a-testing-metric-put-points-on-your-test-cases/)
 - [Test Heuristics Cheat Sheet](https://www.ministryoftesting.com/articles/test-heuristics-cheat-sheet)
+- [Test Heuristics Cheat Sheet (another)](https://www.huibschoots.nl/downloads/testheuristicscheatsheetv1.pdf)
 - [Testers and the Quote Culture](http://testerstories.com/2019/06/testers-and-the-quote-culture)
 - [Testers Don’t Break Software](https://www.developsense.com/blog/2015/02/very-short-blog-posts-25-testers-dont-break-the-software/)
 - [Testers, Now More Than Ever](https://developsense.com/blog/2024/03/testing-now-more-than-ever)
