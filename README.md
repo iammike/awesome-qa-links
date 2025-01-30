@@ -197,6 +197,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [iOS Testing Mindmap](http://www.neglectedpotential.com/2013/10/ios-testing-mind-map-1-2)
 - [iOS UI Testing using Apple XCUITest](https://gopekannan.wordpress.com/2018/02/16/ios-ui-testing-using-apple-xcuitest/)
 - [Making Xcode UI Tests Faster and More Stable](https://blog.bitrise.io/post/making-xcode-ui-tests-faster-and-more-stable)
+- [Mocking Network Data](https://gist.github.com/joemasilotti/7ff31584c0b6981a8f41)
 - [Page Object in XCTest UI Tests](https://alexilyenko.github.io/xcuitest-page-object/)
 - [Painless UI Testing in iOS (Part 1) - Mocking the Network](https://jhandguy.github.io/posts/mocking-the-network-ios/)
 - [Painless UI Testing in iOS (Part 3) - Disabling Animations](https://jhandguy.github.io/posts/coordinator-design-pattern-ios/)
