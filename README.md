@@ -157,6 +157,7 @@ All links have been curated by me personally as beneficial to software testing i
 
 ### Patterns
 
+- [Build and Improving Page Objects One Step At A Time](https://www.ontestautomation.com/building-and-improving-page-objects-one-step-at-a-time/)
 - [Page Object Model: Abstract Everything](https://www.iammike.org/2021/02/24/page-object-model-abstract-everything/)*
 - [Tips for Healthy Page Object Classes](https://angiejones.tech/page-object-model/)
 - [What is the Screenplay Pattern? - Part 1](https://qualitytesting.tumblr.com/post/173669653014/what-is-the-screenplay-pattern-part-1-of-3)
