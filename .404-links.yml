@@ -7,4 +7,5 @@ ignore:
     - http://testerstories.com/*
     - https://web.archive.org/*
     - https://*.substack.com/
+    - https://qarevolution.com/*
   
