@@ -72,6 +72,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Test Heuristics Cheat Sheet (another)](https://www.huibschoots.nl/downloads/testheuristicscheatsheetv1.pdf)
 - [Testers and the Quote Culture](http://testerstories.com/2019/06/testers-and-the-quote-culture)
 - [Testers Don’t Break Software](https://www.developsense.com/blog/2015/02/very-short-blog-posts-25-testers-dont-break-the-software/)
+- [Testers Have To Be The Ones To Advocate For Quality](https://cakehurstryan.com/2025/06/30/testers-have-to-be-the-ones-to-advocate-for-quality/)
 - [Testers, Now More Than Ever](https://developsense.com/blog/2024/03/testing-now-more-than-ever)
 - [TestGuild Automation](https://podcasts.apple.com/us/podcast/testguild-automation-podcast/id826722706) (Podcast)
 - [Testing Advice To Your Younger Self](https://qatoddy.medium.com/testing-advice-to-your-younger-self-an-open-question-to-reddit-4de786a991b5)
@@ -132,7 +133,6 @@ All links have been curated by me personally as beneficial to software testing i
 - [Two Easy Questions To Help You Automate The Right Tests](https://dev-tester.com/two-easy-questions-to-help-you-automate-the-right-tests/)
 - [Unscripted Automation](http://staqs.com/pubs/Unscripted_Automation_PC2009.pdf)
 - [What To Automate And When](https://www.iammike.org/2020/04/21/what-to-automate-and-when/)*
-- [When Test Automation ROI Doesn’t Make Financial Sense](http://www.qarevolution.com/when-test-automation-roi-doesnt-make-financial-sense/)
 - [Which Tests Should We Automate](https://www.youtube.com/watch?v=VL-_pnICmGY) (Video, 35min) [[Slides](https://slides.com/angiejones/which-tests-should-we-automate#/20) and [spreadsheet](https://drive.google.com/file/d/11JVP8z7KHYEsxEqkO1wul5tPfLAk1TsG/view)]
 
 ## Coding
