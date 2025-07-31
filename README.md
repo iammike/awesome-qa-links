@@ -133,7 +133,6 @@ All links have been curated by me personally as beneficial to software testing i
 - [Two Easy Questions To Help You Automate The Right Tests](https://dev-tester.com/two-easy-questions-to-help-you-automate-the-right-tests/)
 - [Unscripted Automation](http://staqs.com/pubs/Unscripted_Automation_PC2009.pdf)
 - [What To Automate And When](https://www.iammike.org/2020/04/21/what-to-automate-and-when/)*
-<!-- - [When Test Automation ROI Doesn’t Make Financial Sense](http://www.qarevolution.com/when-test-automation-roi-doesnt-make-financial-sense/) -->
 - [Which Tests Should We Automate](https://www.youtube.com/watch?v=VL-_pnICmGY) (Video, 35min) [[Slides](https://slides.com/angiejones/which-tests-should-we-automate#/20) and [spreadsheet](https://drive.google.com/file/d/11JVP8z7KHYEsxEqkO1wul5tPfLAk1TsG/view)]
 
 ## Coding
