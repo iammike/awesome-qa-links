@@ -1,5 +1,7 @@
 # Awesome QA Links [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Link Checker](https://github.com/iammike/awesome-qa-links/actions/workflows/link-checker.yml/badge.svg)](https://github.com/iammike/awesome-qa-links/actions/workflows/link-checker.yml)
-A curated list of blogs, articles, videos, and podcasts on software testing.
+A retired, curated list of blogs, articles, videos, and podcasts on software testing.
+
+For a maintained list, see [Brandon's Awesome QA List](https://github.com/brandonhimpfen/awesome-qa).
 
 ## Background
 I've been in the software quality industry for more than two decades. I read a lot of blogs and try to keep up with happenings. 
@@ -8,6 +10,8 @@ but by the time I decided to do anything about it, I realized an [Awesome repo](
 Special thanks to [Awesome Testing](https://github.com/TheJambo/awesome-testing) for the inspiration and some "borrowed" boilerplate.
 
 All links have been curated by me personally as beneficial to software testing in general or the specific work I do (a focus on iOS automation).
+
+**Final update: I am no longer very focused on the QA aspect of software and have moved into more of a strict test automation, developer experience, CI, applied AI, and  development role. As such, my reading has skewed much more in that direction. As of June 2026, this list will be going dormant.**
 
 \* denotes an article I've written or site I maintain.
 
