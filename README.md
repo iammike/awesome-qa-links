@@ -170,6 +170,7 @@ All links have been curated by me personally as beneficial to software testing i
 
 - [Adventures in Automation](http://www.tjmaher.com) (Site) - Good guide for initial setup and how the pieces/parts work.
 - [Appium Pro](https://appiumpro.com) (Site)
+- [QAPractices Mobile Testing Guide](https://qapractices.com/documentation/mobile-testing-guide/) - Practical guide to testing native, hybrid and mobile web apps on iOS and Android.
 
 ### Android
 
