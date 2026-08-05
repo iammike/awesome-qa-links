@@ -65,7 +65,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [The Pragmatic Engineer](https://blog.pragmaticengineer.com) (Site)
 - [Prisoner’s Dilemma in Testing](https://salmonmode.github.io/2020/12/16/prisoners-dilemma-in-testing.html)
-- [QAPractices](https://qapractices.com/) (Site) - Curated QA resource hub with free test cases, checklists, templates and guides for API, web, mobile, security, accessibility and performance testing.
+- [QAPractices](https://qapractices.com/) (Site)
 - [Quality Assurance and Testing](https://developsense.com/blog/2024/01/quality-assurance-and-testing)
 - [Quality Narratives Are a Better Form of Quality Reporting](https://callumakehurstryansblog.wordpress.com/2022/03/24/quality-narratives-are-a-better-form-of-reporting/)
 - [Responsible Automation](https://responsibleautomation.wordpress.com)
