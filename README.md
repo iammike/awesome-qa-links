@@ -56,7 +56,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Jean’s Blog](https://jhandguy.github.io/tags/ios/) (Site)
 - [Kevin Tuck](https://kevintuck.co.uk/blog/) (Site)
 - [Learning By Shipping](https://learningbyshipping.com/) (Site)
-- [Lessons Learned By A Software Tester](http://swtester.blogspot.com) (Site)
+- [Lessons Learned By A Software Tester](https://swtester.blogspot.com) (Site)
 - [Lessons Learned From 20 Years of Software Testing](https://www.linkedin.com/pulse/lessons-learned-from-20-years-software-testing-ministry-of-testing-9qxee/)
 - [Maybe Getting Rid of Your QA Team was Bad, Actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b)
 - [Ministry of Testing](https://www.ministryoftesting.com) (Site/Community)
@@ -101,7 +101,7 @@ All links have been curated by me personally as beneficial to software testing i
 ## Automation
 
 - [11th (and Golden) Commandment of Test Automation](https://responsibleautomation.wordpress.com/2020/09/08/the-11th-commandment-the-automation-golden-rule/)
-- [Agile Testing Automation](http://swtester.blogspot.com/2015/04/agile-testing-automation.html?m=1)
+- [Agile Testing Automation](https://swtester.blogspot.com/2015/04/agile-testing-automation.html?m=1)
 - [Angie Jones](http://angiejones.tech) (Site)
 - [Automate For Yourself](https://www.eviltester.com/blog/eviltester/testautomation/automate-for-yourself-first/)
 - [Automated Testing on Devices](https://medium.com/netflix-techblog/automated-testing-on-devices-fc5a39f47e24) (Netflix)
@@ -168,7 +168,7 @@ All links have been curated by me personally as beneficial to software testing i
 
 ## Mobile
 
-- [Adventures in Automation](http://www.tjmaher.com) (Site) - Good guide for initial setup and how the pieces/parts work.
+- [Adventures in Automation](https://www.tjmaher.com) (Site) - Good guide for initial setup and how the pieces/parts work.
 - [Appium Pro](https://appiumpro.com) (Site)
 
 ### Android
