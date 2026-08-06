@@ -253,6 +253,7 @@ All links have been curated by me personally as beneficial to software testing i
 ### Playwright
 
 - [Playwright's Auto Wait is Simple and Superb](https://ceroshjacob.medium.com/playwrights-auto-wait-is-simple-and-superb-7b537bc00657)
+- [QAPractices Playwright Testing Guide](https://qapractices.com/documentation/playwright-testing-guide/)
 
 ## Other
 
