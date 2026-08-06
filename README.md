@@ -125,6 +125,7 @@ All links have been curated by me personally as beneficial to software testing i
 - [Parallelization test automation? Read this first.](https://responsibleautomation.wordpress.com/2021/07/08/parallelizing-test-automation-read-this-first/)
 - [Problems with Test Automation and Modern QA](https://devqa.io/problems-test-automation-modern-qa/)
 - [Prune Your Automation!](https://web.archive.org/web/20200126223527/https://archdevops.com/2018/07/31/prune-your-automation-2/)
+- [QAPractices Test Automation Guide](https://qapractices.com/documentation/test-automation-guide/)
 - [Redefining Test Automation](https://youtu.be/uIDvGzQdoxc) (Video)
 - [Regression Testing Can Never Be Fully Automated](https://kevintuck.co.uk/regression-testing-can-never-be-fully-automated)
 - [Responsible Automation](https://responsibleautomation.wordpress.com) (Site)
