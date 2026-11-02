@@ -235,6 +235,7 @@ All links have been curated by me personally as beneficial to software testing i
 ### CI
 
 - [Getting an xcresult out of CircleCI](https://www.iammike.org/2021/04/30/getting-an-xcresult-out-of-circleci/)*
+- [Integrating TestMu AI as a Bitrise CI/CD Step (XCUITest)](https://www.testmuai.com/support/docs/bitrise-integration-xcuitest/)
 - [iOS CI Olympics](http://shashikantjagtap.net/ios-ci-olympics-competition-cloud-ios-continuous-integration-servers/)
 - [Setting Up XCUITest for iOS CI](https://bitbar.com/blog/setting-up-xcuitest-for-ios-continuous-integration/)
 - [Test Automation University](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/chapter8.html) (Video)
